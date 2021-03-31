@@ -1,3 +1,7 @@
+**This repository was a fork repository of the mkdocs-windmill. It has been archived in favor of [its own repository](https://github.com/Siphalor/mkdocs-custommill).**
+
+---
+
 [![PyPI][pypi-image]][pypi-link]
 
   [pypi-image]: https://img.shields.io/pypi/v/mkdocs-custommill.svg
